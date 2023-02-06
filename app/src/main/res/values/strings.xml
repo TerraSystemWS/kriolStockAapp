@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KriolStock</string>
+    <string name="company">kriolstock photo, terrasystem 2023</string>
+    <string name="logo_desc">logo do kriolStock</string>
 </resources>
