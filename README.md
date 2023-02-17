@@ -1,4 +1,4 @@
 # kriolStockAapp
 
 ## Link
-(gitHub page)[https://github.com/TerraSystemWS/kriolStockAapp]
+[gitHub page](https://github.com/TerraSystemWS/kriolStockAapp)
